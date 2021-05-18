@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gaurav Dadhich
-- 👀 I’m interested in areas realted to machine learning and it's application
+- 👀 I’m interested in areas related to machine learning and it's application
 
 <!---
 gauravbachani/gauravbachani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
