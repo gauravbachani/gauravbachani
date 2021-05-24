@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Gaurav Dadhich
-- 👀 I’m interested in areas related to machine learning and it's application
+ I’m currently majoring in Mechanical Engineering at IIT Kanpur 
+ I'm interested in exploring areas realted to technology and I also love to explore diffrent algorithms.
 
 <!---
 gauravbachani/gauravbachani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
